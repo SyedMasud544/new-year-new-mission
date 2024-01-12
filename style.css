@@ -1,0 +1,31 @@
+body {
+    margin: 50px, 140px;
+    padding: 0;
+}
+
+/* header */
+.banner_text {
+    color: white;
+    text-align: center;
+    margin-top: 230px;
+}
+
+.banner_small_text {
+    font-family: Merriweather;
+    font-size: 32px;
+    margin-bottom: 0;
+}
+
+.banner_big_text {
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    margin-top: 10px;
+}
+
+body {
+    background-image: url('resources/Banner\ Image.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 450px;
+}
