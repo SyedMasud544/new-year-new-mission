@@ -99,3 +99,88 @@ body {
     letter-spacing: 7.04px;
     width: 642px;
 }
+
+.section_three,
+.new_park_sec {
+    text-align: center;
+    font-size: 32px;
+    font-weight: 600;
+}
+
+span {
+    color: #F00;
+}
+
+.join_now_btn {
+    display: inline-flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+    background: #F00;
+    color: white;
+
+}
+
+.new_park_sec {
+    padding-top: 100px;
+    align-items: center;
+}
+
+.section_three {
+    background-image: linear-gradient(rgba(255, 0, 0, 0.187), white);
+    height: 482px;
+    justify-content: center;
+    margin: 140px 140px;
+}
+
+.section_four {
+    background-image: linear-gradient(rgba(255, 0, 0, 0.187), white);
+    height: 482px;
+    justify-content: center;
+    margin: 140px 140px;
+}
+
+.section_four_content {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+}
+
+.section_four_content>h1 {
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.section_four_content>img {
+    padding-top: 10px;
+}
+
+.section_four_content>.subcribe_btn {
+    width: 648px;
+    height: 72px;
+    flex-shrink: 0;
+}
+
+footer {
+    justify-content: center;
+    text-align: center;
+    color: white;
+    background: #070211;
+    height: 609px;
+    flex-shrink: 0;
+    padding-top: 50px;
+
+}
+.footre_text{
+    display: flex;
+}
