@@ -8,6 +8,7 @@ body {
     color: white;
     text-align: center;
     margin-top: 230px;
+    text-shadow: 2px 2px 2px black;
 }
 
 .banner_small_text {
@@ -28,4 +29,21 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     height: 450px;
+}
+
+/* main */
+.off_section {
+    text-align: center;
+    margin-top: 300px;
+}
+
+.off{
+    color: #F00;
+    font-family:sans-serif;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+}
+.off_text{
+    
 }
