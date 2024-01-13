@@ -79,11 +79,23 @@ body {
     width: 1320px;
     height: 600px;
 } */
-.image_mid{
-display: flex;
-justify-content: center;
+.image_mid {
+    display: flex;
+    justify-content: center;
 
 }
-.midnight_text, .welcome{
-    
+
+.midnight_text {
+    margin-left: 400px;
+}
+
+.welcome {
+    color: #9c5d5d;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+    width: 642px;
 }
